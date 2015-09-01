@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E9E3AA5F-EF3D-4E27-BC2A-0C07DF687EDF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftHouse</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3EC1F122EFEB601F240E660516B36A398C2FE517</key>
+		<string>https://github.com/chenguohao/SwiftHouse.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftHouse.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3EC1F122EFEB601F240E660516B36A398C2FE517</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chenguohao/SwiftHouse.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3EC1F122EFEB601F240E660516B36A398C2FE517</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3EC1F122EFEB601F240E660516B36A398C2FE517</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftHouse</string>
+		</dict>
+	</array>
+</dict>
+</plist>
